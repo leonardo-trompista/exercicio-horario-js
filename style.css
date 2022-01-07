@@ -1,0 +1,50 @@
+body {
+ background-color: rgb(65, 107, 221);
+ font: normal 15pt Arial;
+}
+
+header {
+color: white;
+text-align: center;
+}
+
+section {
+background-color: white;
+border-radius: 30px;
+padding: 15px;
+width: 300px;
+margin: auto;
+box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.699);
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+h1 {
+    font: normal 35pt Arial;
+}
+#dia {
+    text-shadow: 0 0 15px #7b1185;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #7b1185
+} 
+#dia2 {
+    text-shadow: 0 5px 15px #2a2a52;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000
+}
+#dia3 {
+    text-shadow: 0 0 15px #d4c7ca;
+}
+
+#rodape {
+    letter-spacing: .2rem;
+    padding-top: 10cm;
+    
+}
+footer {
+color: white;
+text-align: center;
+}
